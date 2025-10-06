@@ -93,6 +93,6 @@ Following inferences can be drawn from the Report:
 
    claim by Young Adult is 1.7M
 
-         thus, the higher number of claims were by Adults
+         thus, higher number of claims were by Adults
 
     
